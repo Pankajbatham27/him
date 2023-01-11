@@ -1,0 +1,31 @@
+a{
+    text-decoration: none;
+}
+h2.heading {
+    text-align: center;
+    font-weight: 500;
+    color: #0471d7;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.bg-gray {
+    background: #cbcbcb;
+    border-bottom: 1px solid #ddd;
+}
+
+div#google_translate_element .skiptranslate.goog-te-gadget > span {
+    display: none;
+}
+
+
+div#\:0\.targetLanguage {
+    position: absolute;
+    left: 0;
+    top: -5px;
+}
+
+
+.skiptranslate.goog-te-gadget {
+    position: relative;
+    color: transparent;
+}
