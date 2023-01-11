@@ -5,7 +5,7 @@ const Body = (props) => {
     return (
         <>
             <Header />
-                <section style={{'min-height': "70vh"}}>
+                <section style={{minHeight: "70vh"}}>
                 {props.children}
                 </section>
             <Footer />

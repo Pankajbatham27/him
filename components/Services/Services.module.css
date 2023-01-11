@@ -111,12 +111,20 @@
 
 .invest p {
     position: relative;
-    left: 13px;
+    /* left: 13px; */
     top: 20px;
     margin-bottom: 30px;
     overflow: hidden;
 }
 
+.invest figure p::before {
+    display: none;
+}
+
+.invest figure p a {
+    color: red !important;
+    display: block;
+}
 .invest p:before {
     position: absolute;
     left: 0;
