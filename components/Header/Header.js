@@ -49,7 +49,7 @@ const Header = () => {
                 <div className='col-md-2 d-flex align-items-center justify-content-end'><img src={logo.src} className={`img-fluid ${classes.logoHeader}`} alt="" /></div>
                 <div className='col-md-8 d-flex justify-content-center align-items-center'>
                     <div>
-                    <h5 className={classes.headerMainText}>H.P. STATE ELECTRONICS DEVELOPMENT CORPORATION LTD.</h5>
+                    <h5 className={classes.headerMainText}>HIMPARIVAR</h5>
                     {/* <p className='text-center fw-bold'>A Government of HP Undertaking</p> */}
                     </div>
                 </div>
