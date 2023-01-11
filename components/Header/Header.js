@@ -50,7 +50,7 @@ const Header = () => {
                 <div className='col-md-8 d-flex justify-content-center align-items-center'>
                     <div>
                     <h5 className={classes.headerMainText}>H.P. STATE ELECTRONICS DEVELOPMENT CORPORATION LTD.</h5>
-                    <p className='text-center fw-bold'>A Government of HP Undertaking</p>
+                    {/* <p className='text-center fw-bold'>A Government of HP Undertaking</p> */}
                     </div>
                 </div>
                 <div className='col-md-2 d-flex align-items-center'><img src="https://hpsedc.in/wp-content/uploads/2021/08/hplogo.png" className={`img-fluid ${classes.logoHeader}`} alt="" /></div>
